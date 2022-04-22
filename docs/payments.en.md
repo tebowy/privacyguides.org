@@ -12,6 +12,8 @@ icon: material/hand-coin
 
 !!! recommendation
 
+    ![Monero logo](assets/img/payments/monero.svg){ align=right }
+
     **Monero** uses a blockchain with privacy-enhancing technologies that obfuscate transactions to achieve anonymity. Outside observers cannot decipher addresses trading Monero, transaction amounts, address balances, or transaction histories. 
 
     [Visit getmonero.org](https://www.getmonero.org/){ .md-button .md-button--primary }
