@@ -16,7 +16,9 @@ This page outlines some payment methods and notable concerns with them, and is *
 
 ### Monero
 
-**Monero** uses a blockchain with privacy-enhancing technologies that obfuscate transactions to achieve anonymity. Outside observers cannot decipher addresses trading Monero, transaction amounts, address balances, or transaction histories. 
+![Monero logo](assets/img/payments/monero.svg){ align=right }
+
+**[Monero](https://www.getmonero.org/)** uses a blockchain with privacy-enhancing technologies that obfuscate transactions to achieve anonymity. Outside observers cannot decipher addresses trading Monero, transaction amounts, address balances, or transaction histories. 
 
 In 2020, [the IRS published a $625,000 bounty](https://www.forbes.com/sites/kellyphillipserb/2020/09/14/irs-will-pay-up-to-625000-if-you-can-crack-monero-other-privacy-coins/?sh=2e9808a085cc) for breaking Monero's transaction anonymity. They ultimately [paid two companies](https://news.bitcoin.com/chainalysis-and-integra-win-1-25-million-irs-contract-to-break-monero/), Chainalysis and Integra Fec a combined $1.25 million for tools that purport to break Monero's private transaction scheme.
 
