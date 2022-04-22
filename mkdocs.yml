@@ -116,6 +116,7 @@ nav:
       - 'threat-modeling.md'
       - 'technology/dns.md'
       - 'security/multi-factor-authentication.md'
+      - 'technology/payments.md'
     - 'Android':
       - 'android/overview.md'
       - 'android/grapheneos-vs-calyxos.md'
@@ -149,7 +150,6 @@ nav:
       - 'metadata-removal-tools.md'
       - 'multi-factor-authentication.md'
       - 'passwords.md'
-      - 'payments.md'
       - 'productivity.md'
       - 'real-time-communication.md'
       - 'news-aggregators.md'

@@ -16,7 +16,7 @@ This page outlines some payment methods and notable concerns with them, and is *
 
 ### Monero
 
-![Monero logo](assets/img/payments/monero.svg){ align=right }
+![Monero logo](../assets/img/payments/monero.svg){ align=right }
 
 **[Monero](https://www.getmonero.org/)** uses a blockchain with privacy-enhancing technologies that obfuscate transactions to achieve anonymity. Outside observers cannot decipher addresses trading Monero, transaction amounts, address balances, or transaction histories. 
 
