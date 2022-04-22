@@ -1,5 +1,5 @@
 ---
-title: Cryptocurrencies
+title: Payment Methods
 icon: material/hand-coin
 ---
 !!! danger
