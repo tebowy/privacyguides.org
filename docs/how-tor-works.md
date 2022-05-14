@@ -3,7 +3,7 @@ title: "How does Tor work?"
 icon: 'pg/tor'
 ---
 
-The Tor network is an anonymity system designed to protect the privacy and anonymity of its users. Unlike a VPN service, Tor is both free to use and decentralized. below we will explain how it works.
+Tor is a network designed for using the internet with as much privacy as possible. If used properly, the network enables private and anonymous browsing and communications. Tor is both free to use and decentralized. Below, we will explain how it works.
 
 ## The Path Building
 
