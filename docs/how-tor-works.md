@@ -5,7 +5,7 @@ icon: 'pg/tor'
 
 Tor is a network designed for using the internet with as much privacy as possible. If used properly, the network enables private and anonymous browsing and communications. Tor is both free to use and decentralized. Below, we will explain how it works.
 
-## The Path Building
+## Path Building
 
 Tor works by sending your traffic over a network of thousands of voluntarily run nodes (sometimes referred to as relays). Each node is a server that is run by volunteers to help you improve your privacy and anonymity. Every time you connect to Tor, it will choose three nodes to build a path to the internet; this is called a circuit. Each of these nodes has its own function:
 
