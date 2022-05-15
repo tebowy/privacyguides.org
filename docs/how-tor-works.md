@@ -25,7 +25,7 @@ The Encryption Tor will encrypt each packet three times, with each key in turn f
 
 2. When the middle node receives the packet from the entry node, it too will remove a layer of encryption with its key, and find an encrypted packet with the exit nodes address. The middle node will then forward the packet to exit node.
 
-3. When the exit node receives its packet, it will remove the last layer of encryption with its key, and find the destination address that the user wanted to connect to, and forward the packet to that address.
+3. When the exit node receives its packet, it will remove the last layer of encryption with its key. The exit node will see the destination address and forward the packet to that address.
 
 Here is an alternative visualization of the process. Note how each node removes its own layer of encryption, and when the destination website returns data, the same process happens entirely in reverse. For example, the exit node does not know who you are, but it does know which node it came from, and so it adds its own layer of encryption and sends it back.
 
