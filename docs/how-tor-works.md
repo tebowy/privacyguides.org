@@ -7,7 +7,9 @@ Tor is a network designed for using the internet with as much privacy as possibl
 
 ## Path Building
 
-Tor works by sending your traffic over a network of thousands of voluntarily run nodes (sometimes referred to as relays). Each node is a server that is run by volunteers to help you improve your privacy and anonymity. Every time you connect to Tor, it will choose three nodes to build a path to the internet; this is called a circuit. Each of these nodes has its own function:
+Tor works by routing your traffic through a network comprised of thousands of voluntarily run servers called nodes (or relays).
+
+Every time you connect to Tor, it will choose three nodes to build a path to the internet—this path is called a circuit. Each of these nodes has its own function:
 
   - **The Entry Node**: often called the guard node, this is the first node your computer connects to. The entry node sees your IP address, but does not see what you are connecting to. Unlike the other nodes, the Tor client will randomly select an entry node, and stick with it for 2 to 3 months to protect you from certain attacks.
   - **The Middle Node**: the second node to which your Tor client connects. This node can see which node traffic came from (the entry node) and which it goes to next. It does not, however, see your IP address, or the domain you are connecting to. This node is randomly picked from all Tor nodes for each circuit.
