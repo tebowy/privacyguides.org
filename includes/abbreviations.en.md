@@ -22,6 +22,7 @@
 *[GPS]: Global Positioning System
 *[GUI]: Graphical User Interface
 *[GnuPG]: GNU Privacy Guard (PGP implementation)
+*[HDD]: Hard Disk Drive
 *[HOTP]: HMAC (Hash-based Message Authentication Code) based One-Time Password
 *[HTTPS]: Hypertext Transfer Protocol Secure
 *[HTTP]: Hypertext Transfer Protocol
@@ -57,6 +58,7 @@
 *[SMS]: Short Message Service (standard text messaging)
 *[SMTP]: Simple Mail Transfer Protocol
 *[SNI]: Server Name Indication
+*[SSD]: Solid State Drive
 *[SSH]: Secure Shell
 *[SaaS]: Software as a Service (cloud software)
 *[SoC]: System on Chip

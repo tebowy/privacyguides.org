@@ -144,6 +144,7 @@ nav:
       - 'basics/dns.md'
       - 'basics/multi-factor-authentication.md'
       - 'basics/account-deletion.md'
+      - 'basics/erasing-data.md'
     - 'Android':
       - 'android/overview.md'
       - 'android/grapheneos-vs-calyxos.md'
