@@ -18,7 +18,7 @@ For an unencrypted drive, pressing ++del++ on a file isn't enough. This tells th
 
 For wiping all your drives, we recommend you use ShredOS. Install [Balena Etcher](https://www.balena.io/etcher/) and make sure you have a usb flash drive (it will be wiped, so make sure there aren't any important files on it). Download a [ShredOS](https://github.com/PartialVolume/shredos.x86_64#download-img-and-iso-files-for-burning-to-usb-flash-drives-and-cd-rdvd-r) .iso file and run Balena Etcher with your USB drive plugged in. Once you're done flashing the USB drive, restart your computer and enter your UEFI settings by pressing a key specified in your motherboard's manual, usually ++f2++, ++f12++, or ++del++. There should be a "Boot Override" option somewhere. Select your USB device from the menu and it will boot into ShredOS. Follow the onscreen prompts to wipe your data.
 
-![Example of UEFI Settings](../assets/img/erasing-data/uefi.png)
+![ShredOS](../assets/img/erasing-data/shredos.png)
 
 ## Erasing Specific Files
 
