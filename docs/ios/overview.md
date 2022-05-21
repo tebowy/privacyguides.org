@@ -34,7 +34,6 @@ AirDrop allows you to easily transfer files, but it can allow strangers to send 
 
 Airdrop :material-chevron-right: 
 
-|               |                  |
 | :------------ | ---------------: |
 | Receiving Off | :material-check: |
 | Contacts Only |                  |
