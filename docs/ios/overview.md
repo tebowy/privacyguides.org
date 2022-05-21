@@ -9,7 +9,7 @@ App Privacy Report is a built-in tool that allows you to see what permissions yo
 
 ## Siri
 
-If you want to make use of Apple's digital assistan, be aware that Siri collects speech data, [^1] although Apple claims that only minimal data is sent.
+If you want to make use of Apple's digital assistan, be aware that Siri collects speech data,[^1] although Apple claims that only minimal data is sent.
 
 [^1]: https://www.apple.com/legal/privacy/data/en/ask-siri-dictation/
 
