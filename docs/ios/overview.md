@@ -34,8 +34,6 @@ If you want to make use of Apple's digital assistant, be sure to make it only ac
 
 As of iOS 15, iOS uses Machine Learning & On-Device Proccessing to deliver things and your Vocie data never leaves your device. Unless you opt-in for Analytics or Speech Improvement services.
 
-[^1]: [Ask Siri, Dictation & Privacy](https://www.apple.com/legal/privacy/data/en/ask-siri-dictation/)
-
 ## Avoid Jailbreaking
 
 Jailbreaking an iPhone defeats its security and makes you vulnerable.
