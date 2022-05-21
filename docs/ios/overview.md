@@ -30,7 +30,9 @@ Bluetooth :material-toggle-switch-outline-off:
 
 ### Siri & Search
 
-If you want to make use of Apple's digital assistan, be aware that Siri collects speech data,[^1] although Apple claims that only minimal data is sent.
+If you want to make use of Apple's digital assistant, be sure to make it only activate after the Device is unlocked to prevent unauthorized access via Utlrasonic Hacking techniques.
+
+As of iOS 15, iOS uses Machine Learning & On-Device Proccessing to deliver things and your Vocie data never leaves your device. Unless you opt-in for Analytics or Speech Improvement services.
 
 [^1]: [Ask Siri, Dictation & Privacy](https://www.apple.com/legal/privacy/data/en/ask-siri-dictation/)
 
