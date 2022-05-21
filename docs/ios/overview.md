@@ -21,7 +21,7 @@ You should consider changing these settings to improve your privacy.
 
 Bluetooth should be disabled when you aren't using it.
 
-Bluetooth :material-toggle-off:
+Bluetooth :material-toggle-switch-off:
 
 ## Avoid Jailbreaking
 
