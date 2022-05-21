@@ -32,7 +32,7 @@ Bluetooth :material-toggle-switch-off-outline:
 
 AirDrop allows you to easily transfer files, but it can allow strangers to send you files you do not want.
 
-Airdrop :material-arrow-right: 
+Airdrop :material-chevron-right: 
 
 | Receiving Off :material-check: |
 | Contacts Only|
@@ -40,11 +40,11 @@ Airdrop :material-arrow-right:
 
 AirPlay lets you seemlessly stream content from your iPhone to a TV; however, you might not always want this.
 
-AirPlay & Handoff :material-arrow-right: Automatically AirPlay to TVs :material-arrow-right: Never :material-check:
+AirPlay & Handoff :material-chevron-right: Automatically AirPlay to TVs :material-chevron-right: Never :material-check:
 
 Background App Refresh allows your apps to refresh their content while you're not using them. This may cause them to make unwanted connections.
 
-Background App Refresh :material-arrow-right: Background App Refresh :material-arrow-right: Off :material-check:
+Background App Refresh :material-chevron-right: Background App Refresh :material-chevron-right: Off :material-check:
 
 ### Siri & Search
 
