@@ -27,7 +27,7 @@ Bluetooth :material-toggle-switch-off-outline:
 
 AirDrop allows you to easily transfer files, but it can allow strangers to send you files you do not want.
 
-Airdrop :material-chevron-right: 
+AirDrop :material-chevron-right: 
 
 |               | AirDrop |                 |
 | :------------ | :-----: |---------------: |
