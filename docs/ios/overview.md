@@ -47,7 +47,7 @@ AirPlay & Handoff :material-chevron-right: Automatically AirPlay to TVs :materia
 
 Background App Refresh allows your apps to refresh their content while you're not using them. This may cause them to make unwanted connections.
 
-Background App Refresh :material-chevron-right: Background App Refresh :material-chevron-right: Off 
+Background App Refresh :material-chevron-right: Background App Refresh :material-chevron-right:
 
 |                       | Background App Refresh |                  |
 | :-------------------- | :--------------------: | ---------------: |
