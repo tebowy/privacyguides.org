@@ -32,7 +32,11 @@ Bluetooth :material-toggle-switch-off-outline:
 
 AirDrop allows you to easily transfer files, but it can allow strangers to send you files you do not want.
 
-Airdrop :material-arrow-right: Receiving Off :material-check:
+Airdrop :material-arrow-right: 
+
+| Receiving Off :material-check: |
+| Contacts Only                  |
+| Everyone                       |
 
 AirPlay lets you seemlessly stream content from your iPhone to a TV; however, you might not always want this.
 
