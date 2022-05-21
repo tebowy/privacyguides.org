@@ -42,11 +42,23 @@ Airdrop :material-chevron-right:
 
 AirPlay lets you seemlessly stream content from your iPhone to a TV; however, you might not always want this.
 
-AirPlay & Handoff :material-chevron-right: Automatically AirPlay to TVs :material-chevron-right: Never :material-check:
+AirPlay & Handoff :material-chevron-right: Automatically AirPlay to TVs :material-chevron-right: 
+
+|           | Automatically AirPlay to TVs |                  |
+| :-------- | :--------------------------: | ---------------: |
+| Never     |                              | :material-check: |
+| Ask       |                              |                  |
+| Automatic |                              |                  |
 
 Background App Refresh allows your apps to refresh their content while you're not using them. This may cause them to make unwanted connections.
 
-Background App Refresh :material-chevron-right: Background App Refresh :material-chevron-right: Off :material-check:
+Background App Refresh :material-chevron-right: Background App Refresh :material-chevron-right: Off 
+
+| | Background App Refresh | |
+| :- | :-: | -: |
+| Off | | :material-check: |
+| Wi-Fi | | |
+| Wi-Fi & Cellular Data | | |
 
 ### Siri & Search
 
