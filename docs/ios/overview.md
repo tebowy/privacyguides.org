@@ -18,9 +18,9 @@ You can enable hardware address randomization to protect you from tracking acros
 
 On the network you are currently connected to, press the :material-information: button.
 
-Private Wi-Fi Address :material-toggle-switch-on:
+Private Wi-Fi Address :material-toggle-switch:
 
-Limit IP Address Tracking :material-toggle-switch-on:
+Limit IP Address Tracking :material-toggle-switch:
 
 ### Bluetooth
 
