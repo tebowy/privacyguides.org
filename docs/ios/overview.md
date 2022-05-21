@@ -26,7 +26,7 @@ Limit IP Address Tracking :material-toggle-switch:
 
 Bluetooth should be disabled when you aren't using it.
 
-Bluetooth :material-toggle-switch-outline-off:
+Bluetooth :material-toggle-switch-off-outline:
 
 ### Siri & Search
 
