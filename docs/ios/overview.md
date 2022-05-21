@@ -20,6 +20,8 @@ On the network you are currently connected to, press the :material-information: 
 
 Private Wi-Fi Address :material-toggle-switch-on:
 
+Limit IP Address Tracking :material-toggle-switch-on:
+
 ### Bluetooth
 
 Bluetooth should be disabled when you aren't using it.
