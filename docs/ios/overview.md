@@ -35,7 +35,7 @@ AirDrop allows you to easily transfer files, but it can allow strangers to send 
 Airdrop :material-chevron-right: 
 | --- | --- |
 | Receiving Off :material-check: |
-| Contacts Only|
+| Contacts Only |
 | Everyone |
 
 AirPlay lets you seemlessly stream content from your iPhone to a TV; however, you might not always want this.
