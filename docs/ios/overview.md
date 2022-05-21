@@ -54,11 +54,11 @@ Background App Refresh allows your apps to refresh their content while you're no
 
 Background App Refresh :material-chevron-right: Background App Refresh :material-chevron-right: Off 
 
-| | Background App Refresh | |
-| :- | :-: | -: |
-| Off | | :material-check: |
-| Wi-Fi | | |
-| Wi-Fi & Cellular Data | | |
+|                       | Background App Refresh |                  |
+| :-------------------- | :--------------------: | ---------------: |
+| Off                   |                        | :material-check: |
+| Wi-Fi                 |                        |                  |
+| Wi-Fi & Cellular Data |                        |                  |
 
 ### Siri & Search
 
