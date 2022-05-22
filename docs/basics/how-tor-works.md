@@ -15,9 +15,10 @@ Every time you connect to Tor, it will choose three nodes to build a path to the
   - **The Middle Node**: The second node to which your Tor client connects. This node can see which node traffic came from (the entry node) and which it goes to next. It does not, however, see your IP address, or the domain you are connecting to. This node is randomly picked from all Tor nodes for each circuit.
   - **The Exit Node**: This is where your traffic leaves the Tor network and is forwarded to your desired destination. The exit node does not know your IP (who you are) but it knows what you are connecting to. The exit node will, like the middle node, be chosen at random from the Tor nodes (if it runs with an exit flag).
 
-```mermaid
-
-```
+<figure markdown>
+  ![Tor path](../assets/img/how-tor-works/tor-path.svg#only-light)
+  ![Tor path](../assets/img/how-tor-works/tor-path-dark.svg#only-dark)
+</figure>
 
 The Encryption Tor will encrypt each packet three times, with each key in turn from the exit, middle and entry node in that order. Once Tor has built a circuit, browsing is done as follows:
 
@@ -29,8 +30,9 @@ The Encryption Tor will encrypt each packet three times, with each key in turn f
 
 Here is an alternative visualization of the process. Note how each node removes its own layer of encryption, and when the destination website returns data, the same process happens entirely in reverse. For example, the exit node does not know who you are, but it does know which node it came from, and so it adds its own layer of encryption and sends it back.
 
-```mermaid
-
-```
+<figure markdown>
+  ![Tor encryption](../assets/img/how-tor-works/tor-encryption.svg#only-light)
+  ![Tor encryption](../assets/img/how-tor-works/tor-encryption-dark.svg#only-dark)
+</figure>
 
 So, what do we learn from this? We learn that Tor allows us to connect to a website without any single party knowing the entire path. The entry node knows who you are, but not where you are going; the middle node doesn’t know who you are or where you are going; and the exit node knows where you are going, but not who you are. Because the exit node makes the connection, the destination website will never know who you are (your IP address).
